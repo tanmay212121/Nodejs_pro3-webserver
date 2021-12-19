@@ -1,5 +1,5 @@
 
-console.log("client")
+
 
 
 const weatherForm = document.querySelector('form')
